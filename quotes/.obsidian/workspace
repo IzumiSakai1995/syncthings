@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "2e5b8e5be10eb8f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60602c6b804de0e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ch/tik tok.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "326b341faad1d731",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3e6e921022371056",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a905000dd0d85ec5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "29f9f5be264a00d5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4c98b380e10e2293",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b303934ad8951e6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f858d92312a5b4f2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ch/tik tok.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bd5800a23e478b4a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "ch/tik tok.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f3f28951af16a04c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "ch/tik tok.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e60602c6b804de0e",
+  "lastOpenFiles": [
+    "机遇主动投靠逻辑清晰的人.md",
+    "压力的来源.md",
+    "ch/tik tok.md",
+    "人在什么时候会做出改变.md",
+    "en/Untitled.md"
+  ]
+}

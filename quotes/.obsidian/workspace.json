@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "2e5b8e5be10eb8f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "639f6147ac13bea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60602c6b804de0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ch/tik tok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8014a175afda0faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ch/tik tok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55b762f36d1cb910",
+    "type": "split",
+    "children": [
+      {
+        "id": "804af111369057a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43014c95a21f91df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2643200b66ec4e90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03b4efec9a7e7168",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cb014259064a9de",
+    "type": "split",
+    "children": [
+      {
+        "id": "37545221677ff429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63337feffd2d5b0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ch/tik tok.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec1b429b603703da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ch/tik tok.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cb4a769545ac06d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aae70b73ac3bf1bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ch/tik tok.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8014a175afda0faa",
+  "lastOpenFiles": [
+    "机遇主动投靠逻辑清晰的人.md",
+    "ch/tik tok.md",
+    "压力的来源.md",
+    "人在什么时候会做出改变.md",
+    "en/Untitled.md"
+  ]
+}

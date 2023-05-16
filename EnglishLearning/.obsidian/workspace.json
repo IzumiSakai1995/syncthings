@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "c14b5bdb480078d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "298979e5eb7e2a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75355314b7d83b31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90cd535f629453c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e23883121f21b12d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d1f162c49fabc82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "631f731eb1ed56a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3577cf1b29eecbc1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2852936763b2f91a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfabd8f3801b846a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc7cc8c15cf51e16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78a6d20018c02daf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25bb30ec5329e36e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b46907b22ce9c40e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6d1f162c49fabc82",
+  "lastOpenFiles": [
+    "RickAndMorty/Season 1/ep02.md",
+    "RickAndMorty/Season 1/ep03.md",
+    "RickAndMorty/Season 1/ep01.md",
+    "Untitled.md"
+  ]
+}

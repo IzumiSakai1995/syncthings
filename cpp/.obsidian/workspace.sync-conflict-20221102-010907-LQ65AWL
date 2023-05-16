@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "fdb5eb6e3fcf8e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed965e96fcfb23ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "标准库/标准库.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21394bc2e66109ab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1166d18e567b0b91",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7990f26a45eecdc3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "85185f505244010a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d270b0c70493f73b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f3656adc33e8292c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "43d996240eb34432",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "标准库/标准库.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9729a0449def1022",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "标准库/标准库.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f8ed90ea25fa4a03",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "标准库/标准库.md"
+          }
+        }
+      },
+      {
+        "id": "974768d99d257f5f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ed965e96fcfb23ea",
+  "lastOpenFiles": []
+}

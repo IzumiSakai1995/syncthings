@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "5befc31f179f7c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "42560f1b744f3672",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "莫名其妙.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02a37b22d6403e9f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cba3685d245d89f9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d01144c44f37ab14",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0af4687ce00d29e9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e29ec443bad3979b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0a5530785ac84406",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "827d5f5ffea27cfc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "莫名其妙.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b3a488538b39ebc1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "莫名其妙.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "98f60e156fbabda3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "莫名其妙.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "42560f1b744f3672",
+  "lastOpenFiles": [
+    "Movies.md"
+  ]
+}

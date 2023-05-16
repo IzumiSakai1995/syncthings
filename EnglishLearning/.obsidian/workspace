@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "c14b5bdb480078d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "75355314b7d83b31",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "熬夜后科学恢复.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bd647512e8acbee",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "effa68d8c17961d5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "10a64a48f3bd1143",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3c5481821cf85abb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8e279c68924d354c",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "af0b16b5072211bb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6e519aa469e1664d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "熬夜后科学恢复.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "780551ef0df90b30",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "熬夜后科学恢复.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e304590fb08622d3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "熬夜后科学恢复.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "75355314b7d83b31",
+  "lastOpenFiles": [
+    "RickAndMorty/Season 1/ep02.md",
+    "RickAndMorty/Season 1/ep01.md",
+    "RickAndMorty/Season 1/ep03.md",
+    "熬夜后科学恢复.md"
+  ]
+}
